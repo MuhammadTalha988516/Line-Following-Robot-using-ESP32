@@ -191,7 +191,7 @@ Example:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Line-Following-Robot-using-ESP32.git
+git clone https://github.com/MuhammadTalha988516/Line-Following-Robot-using-ESP32.git
 ```
 
 ### Open Project
@@ -229,21 +229,16 @@ Open the project in **Arduino IDE**.
 
 Contributions are welcome!
 
-If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+If you have suggestions or improvements, feel free to open an issue.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Muhammad Talha Ali Butt**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/MuhammadTalha988516
 
 ---
 
